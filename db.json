@@ -1,180 +1,14 @@
 {
   "users": [
     {
-      "username": "admin",
-      "password": "admin",
-      "storehouse": [
-        {
-          "id": 10,
-          "num": 2
-        },
-        {
-          "id": 13,
-          "num": 1
-        },
-        {
-          "id": 3,
-          "num": 1
-        },
-        {
-          "id": 5,
-          "num": 1
-        }
-      ],
+      "username": "user",
+      "password": "user",
+      "storehouse": [],
       "birthday": "1975/1/1",
       "gender": "小姐",
-      "nick": "管理员",
+      "nick": "测试用户",
       "balance": 38,
       "id": 1
-    },
-    {
-      "username": "tom",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "1975/3/1",
-      "gender": "小姐",
-      "nick": "汤姆",
-      "balance": 26,
-      "id": 2
-    },
-    {
-      "username": "jack",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "2022/1/1",
-      "gender": "公子",
-      "nick": "杰克",
-      "balance": 25,
-      "id": 3
-    },
-    {
-      "username": "tam",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "1991/1/1",
-      "gender": "公子",
-      "nick": "提姆",
-      "balance": 25,
-      "id": 4
-    },
-    {
-      "username": "bot",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "1993/10/1",
-      "gender": "其他",
-      "nick": "波特",
-      "balance": 25,
-      "id": 5
-    },
-    {
-      "username": "keli",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "1992/1/1",
-      "gender": "小姐",
-      "nick": "可莉",
-      "balance": 25,
-      "id": 6
-    },
-    {
-      "username": "kkx",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "1988/1/1",
-      "gender": "小姐",
-      "nick": "可可西",
-      "balance": 25,
-      "id": 7
-    },
-    {
-      "username": "cc",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "1994/1/1",
-      "gender": "公子",
-      "nick": "cc",
-      "balance": 25,
-      "id": 8
-    },
-    {
-      "username": "cv",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "1979/1/16",
-      "gender": "小姐",
-      "nick": "tab",
-      "balance": 25,
-      "id": 9
-    },
-    {
-      "username": "bbb",
-      "password": "bbb",
-      "storehouse": [],
-      "birthday": "2022/5/17",
-      "gender": "小姐",
-      "nick": "aaaa",
-      "id": 10,
-      "balance": 0
-    },
-    {
-      "username": "沙发",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "未知",
-      "gender": "未知",
-      "nick": "阿发",
-      "balance": 25,
-      "id": 11
-    },
-    {
-      "username": "AD",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "1970/12/16",
-      "gender": "公子",
-      "nick": "asf",
-      "balance": 25,
-      "id": 12
-    },
-    {
-      "username": "qwrew",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "1986/5/14",
-      "gender": "公子",
-      "nick": "李红",
-      "balance": 25,
-      "id": 13
-    },
-    {
-      "username": "zhangliang",
-      "password": "123",
-      "storehouse": [],
-      "birthday": "2022/5/10",
-      "gender": "公子",
-      "nick": "张亮",
-      "balance": 25,
-      "id": 14
-    },
-    {
-      "username": "test",
-      "password": "123",
-      "storehouse": [
-        {
-          "id": 4,
-          "num": 1
-        },
-        {
-          "id": 14,
-          "num": 2
-        }
-      ],
-      "birthday": "1987/1/1",
-      "gender": "公子",
-      "nick": "Tom",
-      "balance": 1,
-      "id": 15
     }
   ],
   "admin": [
@@ -182,11 +16,6 @@
       "id": 1,
       "username": "admin",
       "password": "admin"
-    },
-    {
-      "id": 2,
-      "username": "123",
-      "password": "123"
     }
   ],
   "homeSwiperList": [
