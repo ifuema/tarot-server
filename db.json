@@ -1,0 +1,363 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "storehouse": [
+        {
+          "id": 10,
+          "num": 2
+        },
+        {
+          "id": 13,
+          "num": 1
+        },
+        {
+          "id": 3,
+          "num": 1
+        },
+        {
+          "id": 5,
+          "num": 1
+        }
+      ],
+      "birthday": "1975/1/1",
+      "gender": "小姐",
+      "nick": "管理员",
+      "balance": 38,
+      "id": 1
+    },
+    {
+      "username": "tom",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "1975/3/1",
+      "gender": "小姐",
+      "nick": "汤姆",
+      "balance": 26,
+      "id": 2
+    },
+    {
+      "username": "jack",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "2022/1/1",
+      "gender": "公子",
+      "nick": "杰克",
+      "balance": 25,
+      "id": 3
+    },
+    {
+      "username": "tam",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "1991/1/1",
+      "gender": "公子",
+      "nick": "提姆",
+      "balance": 25,
+      "id": 4
+    },
+    {
+      "username": "bot",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "1993/10/1",
+      "gender": "其他",
+      "nick": "波特",
+      "balance": 25,
+      "id": 5
+    },
+    {
+      "username": "keli",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "1992/1/1",
+      "gender": "小姐",
+      "nick": "可莉",
+      "balance": 25,
+      "id": 6
+    },
+    {
+      "username": "kkx",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "1988/1/1",
+      "gender": "小姐",
+      "nick": "可可西",
+      "balance": 25,
+      "id": 7
+    },
+    {
+      "username": "cc",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "1994/1/1",
+      "gender": "公子",
+      "nick": "cc",
+      "balance": 25,
+      "id": 8
+    },
+    {
+      "username": "cv",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "1979/1/16",
+      "gender": "小姐",
+      "nick": "tab",
+      "balance": 25,
+      "id": 9
+    },
+    {
+      "username": "bbb",
+      "password": "bbb",
+      "storehouse": [],
+      "birthday": "2022/5/17",
+      "gender": "小姐",
+      "nick": "aaaa",
+      "id": 10,
+      "balance": 0
+    },
+    {
+      "username": "沙发",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "未知",
+      "gender": "未知",
+      "nick": "阿发",
+      "balance": 25,
+      "id": 11
+    },
+    {
+      "username": "AD",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "1970/12/16",
+      "gender": "公子",
+      "nick": "asf",
+      "balance": 25,
+      "id": 12
+    },
+    {
+      "username": "qwrew",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "1986/5/14",
+      "gender": "公子",
+      "nick": "李红",
+      "balance": 25,
+      "id": 13
+    },
+    {
+      "username": "zhangliang",
+      "password": "123",
+      "storehouse": [],
+      "birthday": "2022/5/10",
+      "gender": "公子",
+      "nick": "张亮",
+      "balance": 25,
+      "id": 14
+    },
+    {
+      "username": "test",
+      "password": "123",
+      "storehouse": [
+        {
+          "id": 4,
+          "num": 1
+        },
+        {
+          "id": 14,
+          "num": 2
+        }
+      ],
+      "birthday": "1987/1/1",
+      "gender": "公子",
+      "nick": "Tom",
+      "balance": 1,
+      "id": 15
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "username": "123",
+      "password": "123"
+    }
+  ],
+  "homeSwiperList": [
+    {
+      "id": 1,
+      "name": "时间流牌阵",
+      "imgurl": "assets/img/1.png",
+      "message": "平行流向的时间占卜法,适合预测未来 & 窥探未知"
+    },
+    {
+      "id": 2,
+      "name": "恋人金字塔",
+      "imgurl": "assets/img/2.png",
+      "message": "恋人金字塔牌阵简洁直接,适合占卜恋人关系 & 互动解析"
+    },
+    {
+      "id": 3,
+      "name": "维纳斯牌阵",
+      "imgurl": "assets/img/3.png",
+      "message": "维纳斯牌阵剑指未来,可用于占卜爱情发展 & 预测走向"
+    },
+    {
+      "id": 4,
+      "name": "六芒星牌阵",
+      "imgurl": "assets/img/4.png",
+      "message": "六芒星牌阵意义深远，可用于占卜事物发展 & 预测未来"
+    },
+    {
+      "id": 5,
+      "name": "凯尔特牌阵",
+      "imgurl": "assets/img/5.png",
+      "message": "经典古老的塔罗牌阵,适合事件整体分析 & 宏观审视"
+    }
+  ],
+  "cardList": [
+    {
+      "id": 1,
+      "text": "倒吊者",
+      "icon": "assets/img/倒吊者.jpg",
+      "message": "——牺牲（对应星象：海王星）"
+    },
+    {
+      "id": 2,
+      "text": "恶魔",
+      "icon": "assets/img/恶魔.jpg",
+      "message": "——诱惑（对应星象：摩羯座）"
+    },
+    {
+      "id": 3,
+      "text": "高塔",
+      "icon": "assets/img/高塔.jpg",
+      "message": "——毁灭（对应星象：火星）"
+    },
+    {
+      "id": 4,
+      "text": "教皇",
+      "icon": "assets/img/教皇.jpg",
+      "message": "——援助（对应星象：金牛座）"
+    },
+    {
+      "id": 5,
+      "text": "节制",
+      "icon": "assets/img/节制.jpg",
+      "message": "——净化（对应星象：射手座）"
+    },
+    {
+      "id": 6,
+      "text": "力量",
+      "icon": "assets/img/力量.jpg",
+      "message": "——意志（对应星象：狮子座）"
+    },
+    {
+      "id": 7,
+      "text": "恋人",
+      "icon": "assets/img/恋人.jpg",
+      "message": "——结合（对应星象：双子座）"
+    },
+    {
+      "id": 8,
+      "text": "命运之轮",
+      "icon": "assets/img/命运之轮.jpg",
+      "message": "——轮回（对应星象：木星）"
+    },
+    {
+      "id": 9,
+      "text": "死神",
+      "icon": "assets/img/死神.jpg",
+      "message": "——结束（对应星象：天蝎座）"
+    },
+    {
+      "id": 10,
+      "text": "太阳",
+      "icon": "assets/img/太阳.jpg",
+      "message": "——生命（对应星象：太阳）"
+    },
+    {
+      "id": 11,
+      "text": "星星",
+      "icon": "assets/img/星星.jpg",
+      "message": "——希望（对应星象：水瓶座）"
+    },
+    {
+      "id": 12,
+      "text": "隐者",
+      "icon": "assets/img/隐者.jpg",
+      "message": "——探索（对应星象：处女座）"
+    },
+    {
+      "id": 13,
+      "text": "月亮",
+      "icon": "assets/img/月亮.jpg",
+      "message": "——不安（对应星象：双鱼座）"
+    },
+    {
+      "id": 14,
+      "text": "战车",
+      "icon": "assets/img/战车.jpg",
+      "message": "——胜利（对应星象：巨蟹座）"
+    },
+    {
+      "id": 15,
+      "text": "正义",
+      "icon": "assets/img/正义.jpg",
+      "message": "——公平（对应星象：天秤座）"
+    }
+  ],
+  "homeCellList": [
+    {
+      "id": 1,
+      "title": "行星卡组",
+      "label": "行星卡是行星与人之间的图腾，传递行星的能量",
+      "icon": "star-o",
+      "card": [
+        1,
+        3,
+        8,
+        10
+      ],
+      "price": 20,
+      "day": "September 24,2016"
+    },
+    {
+      "id": 2,
+      "title": "星座卡组·阴",
+      "label": "阴性星座卡的守护神是稳健而有判断力的战略家",
+      "icon": "fire-o",
+      "card": [
+        2,
+        4,
+        9,
+        12,
+        13,
+        14
+      ],
+      "price": 18,
+      "day": "April 9,2022"
+    },
+    {
+      "id": 3,
+      "title": "星座卡组·阳",
+      "label": "阳性星座卡诠释进取的、积极的理想主义精神",
+      "icon": "fire-o",
+      "card": [
+        5,
+        6,
+        7,
+        11,
+        15
+      ],
+      "price": 15,
+      "day": "August 14,2020"
+    }
+  ]
+}
